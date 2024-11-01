@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "Beijing China" # china 
+locale                   : "en-US" 
 title                    : "Chong Gao's Page""
 title_separator          : "-"
 name                     : &name "Chong Gao"
