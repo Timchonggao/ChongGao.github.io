@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 # Education
-- M.S. Student in Computer Science and Technology, School of Computer Science, Sun Yat-sen University, 2024-now
+- M.S. Student in Computer Science and Technology, School of Computer Science, Sun Yat-sen University, 2023-now
 - B.S. in Measurement and Control Technology, School of Advanced Manufacturing, Nanchang University, 2022-2023
 - B.S. in Automation, School of Information Engineering, Nanchang University, 2019-2022
 
@@ -25,7 +25,7 @@ redirect_from:
   - Supervisor: Professor [Zichen Xu](https://good.ncu.edu.cn/Pages/Professor.html).
 
 # Skills
-- C/Python/ Programming
+- C/Python Programming
 - Deep Learning
 
 # Publications
