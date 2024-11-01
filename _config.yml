@@ -7,8 +7,8 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US" 
-title                    : "Chong Gao's Page""
+locale                   : "en-US"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Chong Gao"
 description              : &description "personal description"
