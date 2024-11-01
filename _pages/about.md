@@ -6,12 +6,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-
 # Education
-B.S. in Integrated Circuit Design and Integrated Systems, Peking University, 2018
-Ph.D in Computer Science and Technology (Intelligent Science Science and Technology), Peking University, 2023 (expected)
-Work experience
+- B.S. in Automation, School of Information Engineering, Nanchang University, 2019-2022
+- B.S. in Measurement and Control Technology, School of Advanced Manufacturing, Nanchang University, 2022-2023
+- M.S. Student in Computer Science and Technology, School of Computer Science, Sun Yat-sen University, 2024-now
+
+# Work experience
 2021-2022: Research Assistant
 Peking University
 Supervisor: Prof. Baoquan Chen
@@ -21,9 +21,6 @@ Deep Learning
 # Publications
 Multi-Robot Active Mapping via Neural Bipartite Graph Matching
 Ye, Kai, et al. "Multi-Robot Active Mapping via Neural Bipartite Graph Matching." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2022.
-
-
-
 
 
 
