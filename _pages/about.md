@@ -12,11 +12,16 @@ redirect_from:
 - M.S. Student in Computer Science and Technology, School of Computer Science, Sun Yat-sen University, 2024-now
 
 # Work experience
-2021-2022: Research Assistant
+2024.7-now: Research Assistant at 
 Peking University
-Supervisor: Prof. Baoquan Chen
+Supervisor: Professor Wenzheng Chen
+
+2020-2023: Research Assistant at Generic Operational and Optimal Data Lab
+Nanchang University
+Supervisor: Professor Zichen Xu
+
 # Skills
-C++/Python/Javascript/HTML Programming
+C/Python/ Programming
 Deep Learning
 # Publications
 Multi-Robot Active Mapping via Neural Bipartite Graph Matching
