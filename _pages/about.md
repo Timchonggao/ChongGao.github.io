@@ -15,10 +15,10 @@ Work experience
 2021-2022: Research Assistant
 Peking University
 Supervisor: Prof. Baoquan Chen
-Skills
+# Skills
 C++/Python/Javascript/HTML Programming
 Deep Learning
-Publications
+# Publications
 Multi-Robot Active Mapping via Neural Bipartite Graph Matching
 Ye, Kai, et al. "Multi-Robot Active Mapping via Neural Bipartite Graph Matching." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2022.
 
