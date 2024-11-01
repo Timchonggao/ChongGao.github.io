@@ -1,14 +1,14 @@
 ---
 permalink: /
-title: "About me - ChongGao"
+title: "About me - Chong Gao"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-About me
-Education
+
+# Education
 B.S. in Integrated Circuit Design and Integrated Systems, Peking University, 2018
 Ph.D in Computer Science and Technology (Intelligent Science Science and Technology), Peking University, 2023 (expected)
 Work experience
