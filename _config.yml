@@ -24,11 +24,11 @@ author:
   avatar           : "profile.png"
   name             : "Chong Gao"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Master’s Student at Sun Yat-sen University"
+  location         : "Beijing, China"
+  employer         : "Sun Yat-sen University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "gaoch63@mail2.syu.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
