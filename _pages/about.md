@@ -13,7 +13,7 @@ redirect_from:
 
 # Work experience
 - 2024.7-now: Intern Student
-  - Wangxuan Institute of Computer Technology, Peking University.
+  - Visual Computing and Learning Lab, Peking University.
   - Supervisor: Professor [Wenzheng Chen](https://wenzhengchen.github.io/).
 
 - 2023.7-now: M.S. Student
