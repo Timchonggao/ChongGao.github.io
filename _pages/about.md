@@ -8,8 +8,8 @@ redirect_from:
 ---
 # Education
 - M.S. Student in Computer Science and Technology, School of Computer Science, Sun Yat-sen University, 2023-now
-- B.S. in Measurement and Control Technology, School of Advanced Manufacturing, Nanchang University, 2022-2023
-- B.S. in Automation, School of Information Engineering, Nanchang University, 2019-2022
+- B.S. in Measurement and Control Technology, School of Advanced Manufacturing, Nanchang University, 2019-2023
+<!-- - B.S. in Automation, School of Information Engineering, Nanchang University, 2019-2022 -->
 
 # Work experience
 - 2024.7-now: Intern Student
@@ -21,14 +21,14 @@ redirect_from:
   - Supervisor: Professor [Guanbin Li](http://guanbinli.com/).
 
 - 2020-2023: Research Assistant
-  - Generic Operational and Optimal Data Lab, Nanchang University.
-  - Supervisor: Professor [Zichen Xu](https://good.ncu.edu.cn/Pages/Professor.html).
+  <!-- - Generic Operational and Optimal Data Lab, Nanchang University.
+  - Supervisor: Professor [Zichen Xu](https://good.ncu.edu.cn/Pages/Professor.html). -->
 
 # Skills
 - C/Python Programming
 - Deep Learning
 
-# Publications
+<!-- # Publications -->
 
 
 
