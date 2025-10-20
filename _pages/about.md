@@ -20,7 +20,7 @@ redirect_from:
   - Human-Cyber-Physical Intelligence Integration, Sun Yat-sen University.
   - Supervisor: Professor [Guanbin Li](http://guanbinli.com/).
 
-- 2020-2023: Research Assistant
+<!-- - 2020-2023: Research Assistant -->
   <!-- - Generic Operational and Optimal Data Lab, Nanchang University.
   - Supervisor: Professor [Zichen Xu](https://good.ncu.edu.cn/Pages/Professor.html). -->
 
