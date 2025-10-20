@@ -12,7 +12,7 @@ redirect_from:
 <!-- - B.S. in Automation, School of Information Engineering, Nanchang University, 2019-2022 -->
 
 # Work experience
-- 2024.7-now: Intern Student
+- 2024.7-now: Research Intern Student
   - Visual Computing and Learning Lab, Peking University.
   - Supervisor: Professor [Wenzheng Chen](https://wenzhengchen.github.io/).
 
