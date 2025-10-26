@@ -21,9 +21,9 @@ redirect_from:
   - Supervisor: Professor [Guanbin Li](http://guanbinli.com/).
 
 <!-- - 2020-2023: Research Assistant -->
-  <!-- - Generic Operational and Optimal Data Lab, Nanchang University.
-  - Supervisor: Professor [Zichen Xu](https://good.ncu.edu.cn/Pages/Professor.html). -->
-
+<!-- - Generic Operational and Optimal Data Lab, Nanchang University.--> 
+<!-- - Supervisor: Professor [Zichen Xu](https://good.ncu.edu.cn/Pages/Professor.html). -->
+ 
 # Skills
 - C/Python Programming
 - Deep Learning
