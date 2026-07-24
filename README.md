@@ -16,11 +16,19 @@ Personal academic website of **Chong Gao** (高冲), M.S. student at Sun Yat-sen
 ChongGao.github.io/
 ├── _pages/index.html   # the single-page homepage (main content)
 ├── _pages/404.md       # 404 page
+├── project/            # per-project resources (one folder per paper)
+│   ├── psdf/thumbnail.png
+│   ├── moroute/thumbnail.png
+│   └── refracgs/ car/ geosplatting/ pdcnet/ ...
 ├── _includes/          # head / seo / author-profile partials
 ├── _layouts/ _sass/    # theme layout & styles
-├── images/             # profile photo, paper thumbnails (portfolio/), favicons
+├── images/             # profile photo, favicons
 └── _config.yml         # site config (author, url/baseurl, seo)
 ```
+
+### `project/` convention
+
+Each paper has its own folder `project/<name>/` that centralizes all of that project's assets — currently the homepage thumbnail (`thumbnail.png` / `thumbnail.jpg`), and extensible to video demos, paper PDFs, supplementary material, etc. The homepage references thumbnails via `project/<name>/thumbnail.*`.
 
 ## Local Preview
 
